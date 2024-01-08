@@ -1,0 +1,41 @@
+body {
+    background-color: #343541;
+}
+
+.contenedor {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.sens, .cam {
+    width: 50%; 
+    box-sizing: border-box; 
+    float: left;
+    margin: 1%;
+}
+
+.sens img, .cam img {
+    width: 100%; 
+    height: auto;
+    display: block;
+    max-width: 100%;
+  }
+
+h1 {
+    color: white;
+
+}
+
+p {
+    color: white;
+    font-weight: bold;
+}
+
+.canal {
+    font-size: 50px;
+}
+
+.canal img {
+    height: 300px;
+    width: 400px;
+}
